@@ -1,0 +1,44 @@
+body {
+    background-color: bisque;
+}
+
+h4 {
+    margin-bottom: 5px;
+}
+
+input[type=text],[type=password]{
+    margin: 0px;
+    padding: 0px;
+    float:right;
+    display: inline-flex;
+}
+
+input[type=number] {
+    width: 50px;
+    margin: 0px;
+    padding: 0px;
+    float:right;
+    display: inline-flex;
+}
+
+div {
+    width: 65%;
+    margin:auto;
+}
+
+div .left {
+    width: 25%;
+    margin-bottom: 50px;
+}
+
+table,th,td {
+    border:1px solid black;
+}
+
+th {
+    text-align: left;
+}
+
+td {
+    text-align: right;
+}
